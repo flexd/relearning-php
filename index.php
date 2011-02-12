@@ -2,6 +2,7 @@
 include 'inc/db.inc';
 require_once "inc/spyc.php";
 
+
 // Taken from markdown-discount example, slightly modified for suitable use :-)
 class Page extends MarkdownDocument {
   private $meta;
