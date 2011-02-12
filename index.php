@@ -1,5 +1,5 @@
 <?php
-include 'inc/db.inc';
+include 'config/db.inc';
 require_once "inc/spyc.php";
 
 
